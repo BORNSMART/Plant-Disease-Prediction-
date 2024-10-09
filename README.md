@@ -13,6 +13,8 @@ The dataset contains images from 38 classes, including:
 ## Model
 The model is a Convolutional Neural Network (CNN) built using TensorFlow, designed to classify plant diseases. The images are resized to 128x128 and passed through several convolutional and fully connected layers for classification.
 
+##Dataset Link [https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset](url)
+
 ## Installation
 1. Clone the repository:
    ```bash
